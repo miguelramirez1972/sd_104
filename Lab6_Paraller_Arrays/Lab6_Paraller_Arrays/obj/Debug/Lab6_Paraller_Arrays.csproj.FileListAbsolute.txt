@@ -1,0 +1,7 @@
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\bin\Debug\Lab6_Paraller_Arrays.exe.config
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\bin\Debug\Lab6_Paraller_Arrays.exe
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\bin\Debug\Lab6_Paraller_Arrays.pdb
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\obj\Debug\Lab6_Paraller_Arrays.csprojResolveAssemblyReference.cache
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\obj\Debug\Lab6_Paraller_Arrays.csproj.CoreCompileInputs.cache
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\obj\Debug\Lab6_Paraller_Arrays.exe
+C:\Projects\sd104\Lab6_Paraller_Arrays\Lab6_Paraller_Arrays\obj\Debug\Lab6_Paraller_Arrays.pdb
