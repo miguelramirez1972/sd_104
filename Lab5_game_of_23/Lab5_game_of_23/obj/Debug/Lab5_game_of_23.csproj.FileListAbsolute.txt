@@ -1,0 +1,7 @@
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\bin\Debug\Lab5_game_of_23.exe.config
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\bin\Debug\Lab5_game_of_23.exe
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\bin\Debug\Lab5_game_of_23.pdb
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\obj\Debug\Lab5_game_of_23.csprojResolveAssemblyReference.cache
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\obj\Debug\Lab5_game_of_23.csproj.CoreCompileInputs.cache
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\obj\Debug\Lab5_game_of_23.exe
+C:\Projects\sd104\Lab5_game_of_23\Lab5_game_of_23\obj\Debug\Lab5_game_of_23.pdb
