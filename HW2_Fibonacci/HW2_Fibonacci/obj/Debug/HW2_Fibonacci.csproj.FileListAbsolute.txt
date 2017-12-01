@@ -1,0 +1,7 @@
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\bin\Debug\HW2_Fibonacci.exe.config
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\bin\Debug\HW2_Fibonacci.exe
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\bin\Debug\HW2_Fibonacci.pdb
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\obj\Debug\HW2_Fibonacci.csprojResolveAssemblyReference.cache
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\obj\Debug\HW2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\obj\Debug\HW2_Fibonacci.exe
+C:\Projects\sd104\HW2_Fibonacci\HW2_Fibonacci\obj\Debug\HW2_Fibonacci.pdb
