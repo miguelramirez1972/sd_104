@@ -1,0 +1,15 @@
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\Hangman_GUI_app.exe.config
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\Hangman_GUI_app.exe
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\Hangman_GUI_app.pdb
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.csprojResolveAssemblyReference.cache
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.Properties.Resources.resources
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.csproj.GenerateResource.Cache
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.csproj.CoreCompileInputs.cache
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.exe
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.pdb
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.frmHangman.resources
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\obj\Debug\Hangman_GUI_app.frmMain.resources
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\EntityFramework.dll
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\EntityFramework.xml
+C:\Projects\sd104\Hangman_GUI_app\Hangman_GUI_app\bin\Debug\EntityFramework.SqlServer.xml
